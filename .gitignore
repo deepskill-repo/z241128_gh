@@ -4,3 +4,4 @@ rawdata/*
 .Rproj.user
 *.Rproj
 04_recommendation.ipynb
+.Rhistory
